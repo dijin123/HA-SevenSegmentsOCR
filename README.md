@@ -21,3 +21,6 @@ ssocr --version
 ![WhatsApp Image 2024-10-22 at 12 54 42_5d70d918](https://github.com/user-attachments/assets/21c5a768-a60b-4406-b00d-e865751423f8)
 ![WhatsApp Image 2024-10-22 at 12 56 01_1605d403](https://github.com/user-attachments/assets/16771c80-fa64-4892-bc25-fd902371eac2)
 
+Ref: https://www.home-assistant.io/integrations/seven_segments/#:~:text=The%20seven_segments%20image%20processing%20integration,is%20observed%20by%20a%20camera. 
+https://ourcodeworld.com/articles/read/741/how-to-recognize-seven-segment-displays-content-with-ssocr-seven-segment-optical-character-recognition-in-ubuntu-1604
+
