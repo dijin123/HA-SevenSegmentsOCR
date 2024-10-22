@@ -6,7 +6,7 @@ ssocr must be available on your system. Check the installation instructions belo
 
 ```
 apk update
-apk add pkg-config
+apk add pkgconfig
 apk add g++
 apk add make
 apk add imlib2
